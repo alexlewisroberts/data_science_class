@@ -1,17 +1,14 @@
-# data_science_class
+##WHO data:
+https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete
 
-Approximate timeline:
+##covid data:
+https://github.com/owid/covid-19-data
 
-Week 1
-1. Introduction to Data Frames
-2. Introduction to Scikit-Learn
-3. Introduction to plotting
-4. Introduction to web apps
-5. Theory
+##Movies data:
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-Week 2
-1. Supervised Learning
-2. Unsupervised Learning
-3. Introduction to Neural Networks
-4. Neural Networks - Applications
-5. Neural Networks - Theory
+##Heart disease indicator data:
+https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset
+
+##Wikipedia World data:
+https://www.kaggle.com/datasets/daniboy370/world-data-by-country-2020
