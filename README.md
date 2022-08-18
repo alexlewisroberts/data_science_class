@@ -1,3 +1,7 @@
+# 2-week introductory class on Data Science
+
+See notebooks for details.
+
 # References:
 
 ## WHO data:
